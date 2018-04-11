@@ -1,0 +1,19 @@
+/* Header */
+.head-title{
+	background-color: green;
+	width: 100%;
+	height: 15vh;
+}
+
+/* main */
+
+main{
+	height: 70vh;
+}
+
+/* Footer */
+.footer-title{
+	background-color: red;
+	width: 100%;
+	height: 15vh;
+}
